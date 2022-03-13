@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jullyanabrasileiro/119a1239bdff114dc60b7882be0de950/raw/6533e4fb12e5fc01fdedd18841a36c9a0820c774/jullyanabrasileiro-readme.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jullyanabrasileiro/119a1239bdff114dc60b7882be0de950/raw/255ef96d80448d2f4c5647365bce199381d184e2/jullyanabrasileiro-readme.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jullyana Brasileiro</h1>
 
