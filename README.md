@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 
-- 💕 I’m interested in graphic design, art, music, nature and tecnology
+- 💕 I’m interested in graphic design, art, music, nature, sports and tecnology
 
 - 💬 Im looking to develop and create projects that form and lead our society towards a healthier and more sustainable world
 
