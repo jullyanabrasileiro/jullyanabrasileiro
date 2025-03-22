@@ -12,7 +12,7 @@
 
 - 📌 Leaning about HTML, CSS, JAVASCRIPT, PYTHON
 
-- 🏳‍🌈 (L)
+- 🏳‍🌈 
 
 <br>
 
